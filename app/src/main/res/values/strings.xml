@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="search">Search</string>
+    <string name="no_repositories">No repositories</string>
+    <string name="some_error_happened_upon_loading_the_list">some error happened upon loading the list</string>
+    <string name="sime_repository_name">Sime Repository Name</string>
+    <string name="some_description_here">Some description here</string>
+    <string name="launch_name">Launch name</string>
+    <string name="launch_number">Launch number</string>
+    <string name="launch_year">Launch year</string>
+    <string name="mission_name">Mission name</string>
+</resources>
